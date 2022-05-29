@@ -6,7 +6,7 @@
 - Selenium WebDriver as Web Automation Tool
 
 ## Framework Details
-- This is a maven project
+- This is a maven project set to run on java 1.8
 - Implemented using BDD approach
 - feature file is present in src/test/resources/features
 - Step definitions are present in Steps.java class
